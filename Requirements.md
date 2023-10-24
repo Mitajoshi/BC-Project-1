@@ -1,3 +1,8 @@
+Project Report can be found in the following document:
+
+https://docs.google.com/document/d/15dxeq_y3M68ayFLfHpdN4pTsG4AbOcVhJAVUuah4G1w/edit?usp=sharing
+
+
 Pre-requisites to run the code:
 - Run pip installation of the following packages:
     - cpi
@@ -15,6 +20,4 @@ Pre-requisites to run the code:
 - Code may take upwards of 5 minutes to run due to multiple API calls.
 
 
-Project Report can be found in the following document:
 
-https://docs.google.com/document/d/15dxeq_y3M68ayFLfHpdN4pTsG4AbOcVhJAVUuah4G1w/edit?usp=sharing
