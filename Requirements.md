@@ -7,7 +7,7 @@ Pre-requisites to run the code:
 - Create a config.py file with the API keys named as the following:
     - tmdb_api_key
     - omdb_api_key
-- Create 'Output' folder with 'O' uppercase
+- Create 'Output' folder with 'O' uppercase. This file will store the plots once the code run. 
 - Place the following csv files in the same folder as the movie_analysis.ipynb:
     - movies_metadata.csv
     - golden_globe_awards.csv
