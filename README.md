@@ -72,7 +72,8 @@ Analysis Report
 Disclaimer: Research questions, tasks & datasets might be added/deleted to/from above list. 
 
 
-# Data Analysis Report (All visuals can be found in https://docs.google.com/document/d/15dxeq_y3M68ayFLfHpdN4pTsG4AbOcVhJAVUuah4G1w/edit)
+# Data Analysis Report 
+## All visuals can be found in https://docs.google.com/document/d/15dxeq_y3M68ayFLfHpdN4pTsG4AbOcVhJAVUuah4G1w/edit
 
 ## Introduction
 Our group project aims to source movie data from various platforms, streamline and consolidate this information, and then identify correlations concerning rating, time, genres, production countries, award wins, and gross revenue involvement. We will then present our findings using compelling visualizations. ​
