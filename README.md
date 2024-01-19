@@ -1,4 +1,4 @@
-# BC-Project-1
+# Data Extration, Transformation, Statistical Analysis & Visualization
 
 https://docs.google.com/document/d/1aj4YUjle8D72KxIfCXJYWiW79JSaRPFPPV4EiBvLJp4/edit?usp=sharing
 
@@ -10,11 +10,11 @@ Carter Jackson
 Omar Khan
 Mita Joshi
 
-Project Description/Outline
+Project Description/Outline:
  The goal for this group project is to fetch movie data from multiple sources, clean the data, merge it together, and look for correlations based on rating, time, gross, and actors, then represent that data through strong visualizations.
 
 
-Tasks
+Tasks: 
 Fetch movie data set through API call and clean the data
 Identify movies by their ID# and fetch details about the movies 
 Create a master data frame for further analysis
@@ -29,7 +29,7 @@ Create presentation deck
 Analysis Report
 
 
-Research Questions to Answer
+Research Questions to Answer: 
 Incorporate boxplots to identify outliers for budget or some such similar quantifier towards movie’s success
 Some angle on the genre of the movie - some analysis: over time what genres have gotten more popular and which ones are less popular over time.
 Correlation between profitability and actor names. 
@@ -42,12 +42,12 @@ What kind of movie user would like to watch?
 Correlate runtime of movies with popularity/box office earnings 
 Group the rows in dataframe by country name and Map them on the worldmap 
 
-Datasets to Be Used
+Datasets to Be Used: 
 https://developer.themoviedb.org/reference/movie-details
 Kaggle Oscars dataset (CSV file) (https://www.kaggle.com/datasets/unanimad/the-oscar-award)
 Kaggle Golden Globe dataset (https://www.kaggle.com/datasets/unanimad/golden-globe-awards)
 
-Rough Breakdown of Tasks
+Rough Breakdown of Tasks: 
 
 Anita Kumar
 Fetch movie data set through API call and clean the data
